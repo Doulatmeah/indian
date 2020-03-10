@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1603036
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://triangle.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
