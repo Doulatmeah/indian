@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://173.212.237.70//zee5.php?url=http://z5ams.akamaized.net/zkannadahd/index.m3u8
