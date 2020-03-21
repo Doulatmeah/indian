@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://z5ams.akamaized.net/zeetelegusd/index.m3u8?hdnts=st=1584804688~exp=1584807688~acl=/*~hmac=c4c601672542d1019ff0fe41d9b0a27c1d8c0c6e1c759deb7a505475cc95b032
